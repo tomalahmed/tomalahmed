@@ -16,7 +16,6 @@
 - 🎨 Frontend-first mindset with **React.js**, **TypeScript**, and **Tailwind CSS**
 - 🔌 Into real-time features — **Socket.io**, **REST APIs**, and **live data**
 - 🤖 Exploring **AI integration** in modern web applications
-- 🏫 **Campus Ambassador** at AwareXone
 - 🔭 Working on my solo **thesis project** — a real-world web application
 - 💡 I love turning ideas into clean, functional, and scalable products
 - 📍 Based in **Bangladesh 🇧🇩**
