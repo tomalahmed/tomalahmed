@@ -1,3 +1,6 @@
+
+![Noushin Ahmed Tomal](https://github.com/user-attachments/assets/e550de51-7dfc-460b-aa26-4ffaa9a19785)
+
 <div align="center">
 
 # Hey, I'm Tomal 👋
@@ -63,11 +66,9 @@
 
 <div align="center">
 
-![Tomal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomalahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomalahmed&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=tomalahmed&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tomalahmed&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
